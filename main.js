@@ -40,47 +40,8 @@ else  {
 console.log(trainPrice);
 
 
+// html 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-userAge.innerHTML = prompt ('Inserisci la tua età');
-
-
-
-documen.getElementById('kilometri').innerHTML = userKM
-
-
-
-
-
-
-
-
-
-//calcoli per il  biglieto
-
-let userCost = document.getElementById ('results');
-
-
-
-
-
-// collegamento html 
+let userKM = document.getElementById ('kilometri');
+let userAge = document.getElementById ('age');
+let trainPrice = document.getElementById ('results');
