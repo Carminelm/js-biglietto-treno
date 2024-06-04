@@ -42,6 +42,3 @@ console.log(trainPrice);
 
 // html 
 
-let userKM = document.getElementById ('kilometri');
-let userAge = document.getElementById ('age');
-let trainPrice = document.getElementById ('results');
